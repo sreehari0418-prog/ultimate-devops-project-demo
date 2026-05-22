@@ -4,7 +4,7 @@ package main
 
 // Testing CI build workflow trigger.
 //hi
-//helo
+//heloo
 
 //go:generate go install google.golang.org/protobuf/cmd/protoc-gen-go
 //go:generate go install google.golang.org/grpc/cmd/protoc-gen-go-grpc
